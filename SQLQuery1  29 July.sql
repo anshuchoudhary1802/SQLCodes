@@ -13,4 +13,4 @@ select *from Persons where LastName='sahu'
 select *from Persons
 delete from persons where ID=1
 select *from persons
-
+select *from anshu
